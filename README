@@ -1,0 +1,8 @@
+Espanhol:
+Este es un programa que pretende contar la cantidad de apariciones de todas las palabras que
+esten incluidas en un archivo, el programa pedira por terminal el nombre del archivo
+que se desea analizar y por terminal imprimira los resultados de forma ascendente,
+en el repositorio hay una version sin comentar, una comentada en ingles y otra en espanhol.
+
+English:
+This is a program that aims to count the number of occurrences of all the words that are included in a file. The program will ask for the name of the file to be analyzed through the terminal and will print the results in ascending order. There is an uncommented version, an English-commented version, and a Spanish-commented version in the repository.
